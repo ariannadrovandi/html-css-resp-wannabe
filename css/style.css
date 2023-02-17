@@ -167,5 +167,9 @@ img {
         width: 100%;
     }
 
+    img{
+        margin:18px 0 ;
+    }
+
 }
 
